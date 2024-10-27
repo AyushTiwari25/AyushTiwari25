@@ -36,7 +36,7 @@
 - **Tree-Based Models**: Decision Tree, Random Forest, Gradient Boosting Machines (GBM), AdaBoost, XGBoost
 - **Classification Algorithms**: Support Vector Machines (SVM), k-Nearest Neighbors (k-NN), Naive Bayes
 
-### **Cloud & DevOps**
+### **Cloud Computing (Cloud Engneering)**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=black)  
 **EC2, S3, VPC, Load Balancer**: Experienced in deploying applications and managing cloud infrastructure  
 **CI/CD**: Automated deployment workflows using GitHub Actions for continuous integration and continuous delivery  
