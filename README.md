@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=170&text=AYUSH%20TIWARI&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=70&descAlign=50"/>
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Transforming+Raw+Data+Into+Clear+Business+Decisions;KPI+%26+Performance+Analytics;SQL+%7C+Python+%7C+Dashboard+Engineering;Data-Driven+Strategy+Support"/>
 </p>
