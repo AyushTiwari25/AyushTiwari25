@@ -2,11 +2,6 @@
 <!-- ========================== ANIMATED BLACK HOLE HEADER ========================== -->
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=FFFFFF&center=true&vCenter=true&width=950&lines=Transforming+Raw+Data+Into+Business+Intelligence;KPI+%26+Performance+Analytics;SQL+%7C+Python+%7C+Dashboard+Engineering;Data-Driven+Decision+Support"/>
-</p>
-
----
 
 
 <p align="center">
