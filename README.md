@@ -1,164 +1,159 @@
+<!-- ========================== SNAKE CYBER HERO ========================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=170&text=AYUSH%20TIWARI&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=70&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:000000,50:001a1a,100:00F0FF&stroke=39FF14&strokeWidth=4&text=AYUSH%20TIWARI&fontSize=54&fontColor=39FF14&animation=scaleIn&desc=Advanced%20Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI%20%7C%20AWS&descAlignY=72&descAlign=50&descSize=18&descColor=00FFCC"/>
 </p>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Transforming+Raw+Data+Into+Clear+Business+Decisions;KPI+%26+Performance+Analytics;SQL+%7C+Python+%7C+Dashboard+Engineering;Data-Driven+Strategy+Support"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2600&color=00F0FF&center=true&vCenter=true&width=950&lines=Initializing+Analytics+Engine...;Loading+Data+Pipelines...;Deploying+KPI+Framework...;System+Online+%7C+Advanced+Data+Intelligence"/>
 </p>
 
 ---
 
-<!-- ========================== PROFILE SUMMARY ========================== -->
+<!-- ========================== SYSTEM PROFILE ========================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0B0F2F,100:1A1F4B&text=📊%20PROFILE%20SUMMARY&fontSize=26&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,100:00F0FF&text=SYSTEM%20PROFILE&fontSize=26&fontColor=39FF14&animation=fadeIn"/>
 </p>
 
-Data Analyst specializing in structured data analysis, KPI reporting, performance tracking, and business intelligence solutions.
-
-Strong focus on:
-
-- SQL Data Extraction & Aggregation  
-- Exploratory Data Analysis (EDA)  
-- Regression & Forecast Modeling  
-- Power BI / Tableau Dashboard Development  
-- Variance & Trend Analysis  
-- Cloud-supported analytics deployment  
+```diff
++ Enterprise-Grade Data Analytics Systems
++ SQL Query Optimization & Data Pipeline Engineering
++ Predictive Modeling & Statistical Evaluation
++ KPI Intelligence Framework Design
++ AWS Cloud Deployment & Automation
+```
 
 ---
 
-<!-- ========================== CORE COMPETENCIES ========================== -->
+<!-- ========================== CORE TECH STACK ========================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0B0F2F,100:1A1F4B&text=🛠️%20CORE%20COMPETENCIES&fontSize=26&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,100:00F0FF&text=CORE%20TECH%20STACK&fontSize=26&fontColor=39FF14&animation=fadeIn"/>
+</p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="75"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="75"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" width="75"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" width="75"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="90"/>
+
+</p>
+
+---
+
+<!-- ========================== ANALYTICS ENGINE ========================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,100:00F0FF&text=ANALYTICS%20ENGINE&fontSize=26&fontColor=39FF14&animation=fadeIn"/>
 </p>
 
 ```yaml
-Data Analysis:
-  - Data Cleaning & Transformation
-  - Statistical Analysis
+Data Engineering Layer:
+  - Complex SQL Query Optimization
+  - Data Cleaning & Structured Transformation
+  - Automated Data Pipelines
+
+Advanced Analytics Core:
   - Regression & Classification Models
-  - Correlation & Feature Evaluation
+  - Feature Engineering
+  - Model Accuracy & Validation
 
-Business Intelligence:
-  - KPI Framework Design
-  - Revenue & Cost Analysis
-  - Variance Reporting
-  - Executive Dashboard Development
-
-Technical Tools:
-  - SQL (Joins, Aggregations, Subqueries)
-  - Python (Pandas, NumPy, Scikit-Learn)
-  - Power BI & Tableau
-  - AWS EC2 Deployment
+Business Intelligence Deployment:
+  - KPI Architecture
+  - Executive Dashboards (Power BI)
+  - Automated Reporting Systems
 ```
 
 ---
 
-<!-- ========================== ANALYTICAL WORKFLOW ========================== -->
+<!-- ========================== DATA SYSTEM FLOW ========================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0B0F2F,100:1A1F4B&text=📈%20ANALYTICAL%20WORKFLOW&fontSize=26&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,100:00F0FF&text=DATA%20SYSTEM%20FLOW&fontSize=26&fontColor=39FF14&animation=fadeIn"/>
 </p>
 
 ```
-Business Requirement
+[ Business Requirement ]
         ↓
-SQL Data Extraction
+[ SQL Extraction Engine ]
         ↓
-Data Cleaning & Validation
+[ Data Cleaning & Validation ]
         ↓
-Exploratory Data Analysis
+[ Exploratory Statistical Analysis ]
         ↓
-Statistical / Predictive Modeling
+[ Predictive / ML Modeling ]
         ↓
-Dashboard & KPI Visualization
+[ KPI Visualization Layer ]
         ↓
-Stakeholder Reporting
+[ AWS Deployment Environment ]
 ```
 
 ---
 
-<!-- ========================== KEY PROJECTS ========================== -->
+<!-- ========================== PROJECT SYSTEMS ========================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0B0F2F,100:1A1F4B&text=📂%20KEY%20PROJECTS&fontSize=26&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,100:00F0FF&text=PROJECT%20SYSTEMS&fontSize=26&fontColor=39FF14&animation=fadeIn"/>
 </p>
 
-**HR Analytics – Attrition Prediction**
-- 88% prediction accuracy  
-- Feature importance analysis  
-- Workforce retention insights  
+**HR Attrition Intelligence**
+- 88% predictive accuracy  
+- Feature importance modeling  
+- Workforce risk segmentation  
 
-**Business Factors Analysis**
-- Linear regression modeling  
-- High vs Low impact variable classification  
+**Business Impact Modeling**
+- Linear regression coefficient analysis  
+- High-impact variable prioritization  
 
-**Sales Performance Analysis**
+**Revenue Intelligence System**
 - Customer segmentation  
-- Revenue pattern tracking  
-- +30% sales strategy insight  
+- KPI performance monitoring  
+- +30% strategy optimization insight  
 
-**Cloud-Based Deployment**
-- Django application hosted on AWS EC2  
-- NGINX configuration  
-- CI/CD integration  
-
----
-
-<!-- ========================== TECH STACK ========================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0B0F2F,100:1A1F4B&text=💻%20TECH%20STACK&fontSize=26&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,powerbi,tableau,aws,git,github,linux" />
-</p>
+**Cloud-Based Analytics Deployment**
+- AWS EC2 infrastructure  
+- Secure NGINX configuration  
+- CI/CD automation pipeline  
 
 ---
 
-<!-- ========================== GITHUB ANALYTICS ========================== -->
+<!-- ========================== SYSTEM METRICS ========================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0B0F2F,100:1A1F4B&text=📊%20GITHUB%20ANALYTICS&fontSize=26&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,100:00F0FF&text=SYSTEM%20METRICS&fontSize=26&fontColor=39FF14&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushTiwari25&show_icons=true&theme=midnight-purple&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushTiwari25&theme=midnight-purple&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushTiwari25&show_icons=true&theme=chartreuse-dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushTiwari25&theme=chartreuse-dark&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushTiwari25&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushTiwari25&theme=react-dark&color=39FF14&hide_border=true"/>
 </p>
 
 ---
 
-<!-- ========================== LOCATION & CONTACT ========================== -->
+<!-- ========================== AVAILABILITY ========================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0B0F2F,100:1A1F4B&text=📡%20LOCATION%20%26%20CONTACT&fontSize=26&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,100:00F0FF&text=AVAILABILITY&fontSize=26&fontColor=39FF14&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Pune%20%7C%20Bangalore-FFFFFF?style=for-the-badge&logo=googlemaps&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Notice%20Period-15%20Days-FFFFFF?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <a href="mailto:1017ayushtiwari@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ayush-tiwari-883060286">
-    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
+  <img src="https://img.shields.io/badge/Location-Pune%20%7C%20Bangalore-39FF14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Notice%20Period-15%20Days-00F0FF?style=for-the-badge"/>
 </p>
 
 ---
 
 <h3 align="center">
-Data Analytics • Business Intelligence • Performance Reporting • Insight-Led Decisions
+Neon Cyber Data Systems • Predictive Intelligence • KPI Engineering
 </h3>
