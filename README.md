@@ -1,140 +1,165 @@
-# 👋 Hey there! **Ayush Tiwari**  
-### **Data Science | Machine Learning | Cloud Engineering | Problem Solving**
+<!-- ========================== COSMIC HERO ========================== -->
 
-[![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1017ayushtiwari@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-tiwari-883060286)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushTiwari25)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayushdatascience)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AyushTiwari25&color=blueviolet)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=170&text=AYUSH%20TIWARI&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=70&descAlign=50"/>
+</p>
 
----
-
-# 🧑‍💻 About Me  
-I’m a **Data Science & Machine Learning enthusiast** building impactful projects using **Python, AWS, and Data Visualization tools**.
-
-- 📝 Working on multiple ML, analytics, and cloud automation projects  
-- 🌱 Currently diving deeper into **Generative AI** and **Deep Learning**  
-- 👯 Open to collaboration on ML, BI dashboards, and cloud deployment  
-- 🤝 Always ready to assist with Python, ML, SQL, or AWS  
-- ⚡ Fun fact: I’m either coding, gaming, or exploring new tech!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Transforming+Raw+Data+Into+Clear+Business+Decisions;KPI+%26+Performance+Analytics;SQL+%7C+Python+%7C+Dashboard+Engineering;Data-Driven+Strategy+Support"/>
+</p>
 
 ---
 
-# ⚙️ Skills & Tools
+<!-- ========================== PROFILE SUMMARY ========================== -->
 
-## 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-**Libraries:** Numpy • Pandas • Scikit-Learn • Matplotlib • Seaborn
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0B0F2F,100:1A1F4B&text=📊%20PROFILE%20SUMMARY&fontSize=26&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
----
+Data Analyst specializing in structured data analysis, KPI reporting, performance tracking, and business intelligence solutions.
 
-## 📊 Data Analysis & Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+Strong focus on:
 
-**Excel:** Data cleaning • Analysis • Pivot tables • Charts • VBA
-
----
-
-## 🤖 Machine Learning Expertise
-- **Regression:** Linear, Logistic, Ridge, Lasso  
-- **Tree-Based Models:** Decision Tree, Random Forest, GBM, AdaBoost, XGBoost  
-- **Classification:** SVM, k-NN, Naive Bayes  
+- SQL Data Extraction & Aggregation  
+- Exploratory Data Analysis (EDA)  
+- Regression & Forecast Modeling  
+- Power BI / Tableau Dashboard Development  
+- Variance & Trend Analysis  
+- Cloud-supported analytics deployment  
 
 ---
 
-## ☁️ Cloud Computing (AWS)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=black)
+<!-- ========================== CORE COMPETENCIES ========================== -->
 
-- EC2 • S3 • VPC • Load Balancer  
-- CI/CD with GitHub Actions  
-- Deployment • Security Groups • Networking  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0B0F2F,100:1A1F4B&text=🛠️%20CORE%20COMPETENCIES&fontSize=26&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
----
+```yaml
+Data Analysis:
+  - Data Cleaning & Transformation
+  - Statistical Analysis
+  - Regression & Classification Models
+  - Correlation & Feature Evaluation
 
-# 🚀 Featured Projects
+Business Intelligence:
+  - KPI Framework Design
+  - Revenue & Cost Analysis
+  - Variance Reporting
+  - Executive Dashboard Development
 
-### 📊 HR Analytics – Employee Attrition Prediction  
-🔗 https://github.com/AyushTiwari25/HR-Analytics-Project  
-- ML model accuracy: **88%**  
-- Identified major attrition drivers
-
----
-
-### 💼 Business Factors Analysis – Linear Regression  
-🔗 https://github.com/AyushTiwari25/Business-Factors-Analysis-Using-Linear-Regression  
-- High-impact factor identification  
-- Regression modeling for insights  
-
----
-
-### 🎉 Diwali Sales Analysis  
-🔗 https://github.com/AyushTiwari25/Diwali_Sales_Analysis  
-- +15% customer insight improvement  
-- +30% sales strategy optimization  
+Technical Tools:
+  - SQL (Joins, Aggregations, Subqueries)
+  - Python (Pandas, NumPy, Scikit-Learn)
+  - Power BI & Tableau
+  - AWS EC2 Deployment
+```
 
 ---
 
-### 🔍 Netflix Dataset – EDA + ML  
-🔗 https://github.com/AyushTiwari25/Exploring_Netflix_Dataset_A_Comprehensive_EDA_Project  
-- EDA + ML model with **85% accuracy**  
-- Content trend predictions  
+<!-- ========================== ANALYTICAL WORKFLOW ========================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0B0F2F,100:1A1F4B&text=📈%20ANALYTICAL%20WORKFLOW&fontSize=26&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+```
+Business Requirement
+        ↓
+SQL Data Extraction
+        ↓
+Data Cleaning & Validation
+        ↓
+Exploratory Data Analysis
+        ↓
+Statistical / Predictive Modeling
+        ↓
+Dashboard & KPI Visualization
+        ↓
+Stakeholder Reporting
+```
 
 ---
 
-### 🌐 Django Web Hosting on AWS EC2  
-🔗 https://github.com/AyushTiwari25/EC2_Django_WebHosting  
-- EC2 + NGINX + Ubuntu deployment  
-- Automated CI/CD pipeline  
+<!-- ========================== KEY PROJECTS ========================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0B0F2F,100:1A1F4B&text=📂%20KEY%20PROJECTS&fontSize=26&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+**HR Analytics – Attrition Prediction**
+- 88% prediction accuracy  
+- Feature importance analysis  
+- Workforce retention insights  
+
+**Business Factors Analysis**
+- Linear regression modeling  
+- High vs Low impact variable classification  
+
+**Sales Performance Analysis**
+- Customer segmentation  
+- Revenue pattern tracking  
+- +30% sales strategy insight  
+
+**Cloud-Based Deployment**
+- Django application hosted on AWS EC2  
+- NGINX configuration  
+- CI/CD integration  
 
 ---
 
-# 📈 Professional Insights
+<!-- ========================== TECH STACK ========================== -->
 
-- **Alibaba E-commerce Analysis:** +20% growth insight  
-- **Generative AI Report:** 30% industry impact analysis  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0B0F2F,100:1A1F4B&text=💻%20TECH%20STACK&fontSize=26&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
----
-
-# 📊 GitHub Stats
-
-| ![Stats](https://github-readme-stats.vercel.app/api?username=AyushTiwari25&show_icons=true&theme=radical) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyushTiwari25&theme=radical) |
-|---|---|
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,powerbi,tableau,aws,git,github,linux" />
+</p>
 
 ---
 
-# ⚡ Recent GitHub Activity  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AyushTiwari25&theme=radical)
+<!-- ========================== GITHUB ANALYTICS ========================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0B0F2F,100:1A1F4B&text=📊%20GITHUB%20ANALYTICS&fontSize=26&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushTiwari25&show_icons=true&theme=midnight-purple&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushTiwari25&theme=midnight-purple&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushTiwari25&theme=react-dark&hide_border=true"/>
+</p>
 
 ---
 
-# 🎓 Education & Certifications
+<!-- ========================== LOCATION & CONTACT ========================== -->
 
-### Diploma in Information Technology  
-CSVTU University, Chhattisgarh
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0B0F2F,100:1A1F4B&text=📡%20LOCATION%20%26%20CONTACT&fontSize=26&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-### Advanced Certification in Data Science Using Python – IBM  
-**Skills:** ML • EDA • SQL • Power BI • Tableau • Cloud Computing
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Pune%20%7C%20Bangalore-FFFFFF?style=for-the-badge&logo=googlemaps&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Notice%20Period-15%20Days-FFFFFF?style=for-the-badge"/>
+</p>
 
-### Advanced Certification in Cloud Engineering – IBM  
-**Skills:** EC2 • S3 • VPC • Load Balancer • Cloud Networking  
-
----
-
-# 🌍 About Me (Extended)  
-A passionate Data Scientist & Cloud Engineer dedicated to developing ML models, analytical dashboards, and scalable AWS deployments that solve real business problems.
-
----
-
-# 📞 Contact  
-
-[![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1017ayushtiwari@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-tiwari-883060286)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushTiwari25)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayush_tiwari.____/profilecard/?igsh=OHU0cHU4ejBvaWxm)
+<p align="center">
+  <a href="mailto:1017ayushtiwari@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ayush-tiwari-883060286">
+    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
-# 🙌 Thank You  
-Thanks for checking out my profile! Let's collaborate and build something impactful 🚀  
+<h3 align="center">
+Data Analytics • Business Intelligence • Performance Reporting • Insight-Led Decisions
+</h3>
