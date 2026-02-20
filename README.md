@@ -9,7 +9,11 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="95%"/>
+</p>
 
+---
 <!-- ========================== SYSTEM PROFILE ========================== -->
 
 <p align="center">
